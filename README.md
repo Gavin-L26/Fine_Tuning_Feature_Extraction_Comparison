@@ -1,4 +1,4 @@
-# Fine_Tuning_Feature_Extraction_Comparison
+# American Sign Language Alphabet Recognition using Pretrained CNN Models: Comparison Between Fine-tuning and Feature Extraction
 
 **CSC413 Final Project**
 
